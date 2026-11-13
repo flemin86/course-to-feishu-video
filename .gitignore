@@ -8,3 +8,4 @@ course_state.json
 *.mp4
 *.mp3
 *.wav
+!docs/media/*.mp4
