@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程教学视频制作"
+  short_description: "从教学大纲到飞书课件与授课视频，逐阶段确认并按十分钟分段交付"
+  default_prompt: "请使用$course-to-feishu-video，按需求制作课程，并在每个阶段和每段视频完成后等待我确认。"
